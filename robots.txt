@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://relayassist.net/sitemap.xml
